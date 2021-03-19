@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sia_Group_WageCalculator.iml" filepath="$PROJECT_DIR$/.idea/modules/Sia_Group_WageCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Sia_Group_WageCalculator.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Sia_Group_WageCalculator.app.iml" />
+    </modules>
+  </component>
+</project>
